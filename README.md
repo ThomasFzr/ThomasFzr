@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Thomas, a passionate developer from France. Welcome to my GitHub profile! 🚀
+I'm Thomas, a french dev student at Ynov Lyon, currently in Bachelor 2. Welcome to my profile! 🚀
 
 ## 🔧 Technologies & Tools
 
