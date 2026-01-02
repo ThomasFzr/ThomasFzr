@@ -12,7 +12,7 @@ I'm Thomas, a French dev student at Ynov Lyon, currently in Bachelor 2. Welcome 
 
 ## 📫 Let's Connect
 
-- Portfolio: [My Portfolio](https://thomas-foltzer.onrender.com/)
+- Portfolio: [My Portfolio](https://thomasfoltzer.com/)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/thomas-foltzer-9b50002ab/)
 
 Feel free to reach out and connect.
