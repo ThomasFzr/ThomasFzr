@@ -1,14 +1,12 @@
 # Hello, World! 👋
 
-I'm Thomas, a French dev student at Ynov Lyon, currently in Bachelor 2. Welcome to my profile! 🚀
+I'm Thomas, a French dev student at Ynov Lyon, currently in M1. Welcome to my profile! 🚀
 
 ## 🔧 Technologies & Tools
 
-- PHP
-- C# | C++
-- JavaScript | React
-- HTML | CSS
-- Python 
+
+- Typescript | Next.JS | React
+- 
 
 ## 📫 Let's Connect
 
